@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Barie Wakjira 👋
+### Full-Stack Software Engineer & Independent Developer
 
-<!--
-**bariewakjira-coder/bariewakjira-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer specializing in scalable web applications, RESTful API architectures, and modern user interfaces. I build robust digital solutions ranging from enterprise training management systems to secure online platforms.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Stack
+
+**Backend & Databases**  
+`C#` `.NET Core` `ASP.NET Core` `Node.js` `PHP` `PostgreSQL` `MySQL`
+
+**Frontend & UI**  
+`TypeScript` `JavaScript` `Angular` `React` `Next.js` `Tailwind CSS` `HTML5` `CSS3`
+
+**DevOps & Workflow**  
+`Git` `GitHub` `Vercel` `REST APIs` `RBAC Security`
+
+---
+
+### 🚀 Key Projects & Expertise
+
+- 🛠️ **Enterprise APIs:** Building secure, role-based backend architectures (`ASP.NET Core`, `PostgreSQL`).
+- 💻 **Modern Web Apps:** Developing responsive frontends and web portals (`Next.js`, `React`, `Angular`).
+- 🔐 **System Security:** Implementing robust authentication, authorization, and administrative controls.
+
+---
+
+### 📫 Connect With Me
+
+- **Email:** bariewakjira2@gmail.com
+- **Portfolio:** [bariewakjira.vercel.app](https://bariewakjira.vercel.app)
+- **LinkedIn:** [linkedin.com/in/bariewakjira](https://linkedin.com/in/bariewakjira)
