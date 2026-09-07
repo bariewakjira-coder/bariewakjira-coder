@@ -29,6 +29,5 @@ I am a Software Engineer specializing in scalable web applications, RESTful API 
 ### 📫 Connect With Me
 
 - **Email:** bariewakjira2@gmail.com
-- /
 - **Portfolio:** [bariiportfolio.vercel.app](https://bariiportfolio.vercel.app)
 - **LinkedIn:** [linkedin.com/in/bariewakjira](https://linkedin.com/in/bariewakjira)
