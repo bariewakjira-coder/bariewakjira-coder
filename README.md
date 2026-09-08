@@ -194,8 +194,6 @@ CI/CD Pipeline  █████████████░░░░░░░ 78%
 
 **Let's collaborate and build something amazing together!** 🚀
 
-![Profile Views](https://camo.githubusercontent.com/https://bariiportfolio.vercel.app)
-
 ---
 
 <sub>⭐ If you find my work interesting, please consider starring my repositories and following me!</sub>
