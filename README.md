@@ -194,7 +194,7 @@ CI/CD Pipeline  █████████████░░░░░░░ 78%
 
 **Let's collaborate and build something amazing together!** 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=bariewakjira-coder&color=blueviolet&style=flat-square)
+![Profile Views](https://bariiportfolio.vercel.app/?username=bariewakjira-coder&color=blueviolet&style=flat-square)
 
 ---
 
